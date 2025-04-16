@@ -1,1 +1,41 @@
 # Games
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Scorecard - Game 1</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <h1>Game 1 Scorecard</h1>
+  <table class="scorecard">
+    <tr>
+      <th>Round</th>
+      <th>Team Red</th>
+      <th>Team Blue</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>14</td>
+      <td>12</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>17</td>
+      <td>19</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>20</td>
+      <td>23</td>
+    </tr>
+  </table>
+
+  <br>
+  <p>
+    👉 <a href="game2.html">Go to Game 2</a>  
+    <br>
+    👉 <a href="game3.html">Go to Game 3</a>
+  </p>
+</body>
+</html>
